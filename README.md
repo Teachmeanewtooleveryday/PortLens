@@ -25,7 +25,7 @@ A fast, lightweight, multithreaded TCP port scanner written in Python. No third-
 ```bash
 # Clone the repository
 git clone https://github.com/<your-username>/portlens.git
-cd portlens
+cd PortLens
 
 # (Optional) create and activate a virtual environment
 python3 -m venv venv
