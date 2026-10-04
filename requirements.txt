@@ -1,0 +1,6 @@
+# PortLens uses only the Python standard library (Python 3.9+).
+# No third-party packages are required.
+#
+# Optional packages for planned features (uncomment when needed):
+# tqdm>=4.66      # progress bar
+# colorama>=0.4   # colored output on Windows
