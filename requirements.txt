@@ -1,5 +1,5 @@
-# PortLens uses only the Python standard library (Python 3.9+).
-# No third-party packages are required.
+# PortLens (port_scanner.py and guard.py) uses only the Python standard library (Python 3.9+).
+# No third-party packages are required, so installing this file is optional.
 #
 # Optional packages for planned features (uncomment when needed):
 # tqdm>=4.66      # progress bar

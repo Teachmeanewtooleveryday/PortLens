@@ -1,0 +1,15 @@
+# Guard data: contains IP addresses of people who probed you. Keep private.
+flagged_ips.json
+flagged_ips.tmp
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
